@@ -1,1 +1,1 @@
-# masksubscriptions.github.io
+# masks.github.io
